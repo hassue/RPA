@@ -1,0 +1,11 @@
+C:\Users\Hassan Ullah\source\repos\ParseOCR_JSON\ParseOCR_JSON\bin\Debug\ParseOCR_JSON.exe.config
+C:\Users\Hassan Ullah\source\repos\ParseOCR_JSON\ParseOCR_JSON\bin\Debug\ParseOCR_JSON.exe
+C:\Users\Hassan Ullah\source\repos\ParseOCR_JSON\ParseOCR_JSON\bin\Debug\ParseOCR_JSON.pdb
+C:\Users\Hassan Ullah\source\repos\ParseOCR_JSON\ParseOCR_JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hassan Ullah\source\repos\ParseOCR_JSON\ParseOCR_JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hassan Ullah\source\repos\ParseOCR_JSON\ParseOCR_JSON\obj\Debug\ParseOCR_JSON.csproj.AssemblyReference.cache
+C:\Users\Hassan Ullah\source\repos\ParseOCR_JSON\ParseOCR_JSON\obj\Debug\ParseOCR_JSON.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Ullah\source\repos\ParseOCR_JSON\ParseOCR_JSON\obj\Debug\ParseOCR.852A4B3F.Up2Date
+C:\Users\Hassan Ullah\source\repos\ParseOCR_JSON\ParseOCR_JSON\obj\Debug\ParseOCR_JSON.exe
+C:\Users\Hassan Ullah\source\repos\ParseOCR_JSON\ParseOCR_JSON\obj\Debug\ParseOCR_JSON.pdb
+C:\Users\Hassan Ullah\source\repos\ParseOCR_JSON\ParseOCR_JSON\obj\Debug\ParseOCR_JSON.exe.config
